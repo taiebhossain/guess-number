@@ -1,1 +1,1 @@
-Thi is simple Number Guessing Game
+This is simple Number Guessing Game
